@@ -1,6 +1,6 @@
-# Contentstack Implementation guide: Next + Personalize
+# Kickstart: Next + personalize + visual builder with middleware
 
-This is a bare-bones example to connect Next to Contentstack using the app directory approach with Personalization turnt on using middleware for the API calls to contentstack.
+This is a kickstart example to connect Next 15 to Contentstack using the app directory approach with Personalization turnt on using middleware for the API calls to contentstack.
 This example covers the following items:
 
 - No SDK: uses middleware to call API
